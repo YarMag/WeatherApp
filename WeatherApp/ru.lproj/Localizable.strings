@@ -1,0 +1,93 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by  Магин Ярослав on 04/08/2019.
+  Copyright © 2019 Magin Yaroslav. All rights reserved.
+*/
+
+"Taganrog" = "Таганрог";
+
+"today" = "Сегодня";
+"wind" = "ветер";
+"windSpeed" = "м/с";
+"pressure" = "давление";
+"temp" = "температура";
+
+// openweathermap descriptions
+
+// openweathermap descriptions
+
+// group 2xx - thunderstorm
+"thunderstorm with light rain" = "гроза, слабый дождь";
+"thunderstorm with rain" = "гроза, дождь";
+"thunderstorm with heavy rain" = "гроза, сильный дождь";
+"light thunderstorm" = "легкая гроза";
+"thunderstorm" = "гроза";
+"heavy thunderstorm" = "сильная гроза";
+"ragged thunderstorm" = "местами гроза";
+"thunderstorm with light drizzle" = "гроза, слабая морось";
+"thunderstorm with drizzle" = "гроза, морось";
+"thunderstorm with heavy drizzle" = "гроза, сильная морось";
+
+// group 3xx - drizzle
+"light intensity drizzle" = "слабая морось";
+"drizzle" = "морось";
+"heavy intensity drizzle" = "сильная морось";
+"light intensity drizzle rain" = "слабо моросящий дождь";
+"drizzle rain" = "моросящий дождь";
+"heavy intensity drizzle rain" = "сильно моросящий дождь";
+"shower rain and drizzle" = "проливной дождь, морось";
+"heavy shower rain and drizzle" = "сильный проливной дождь, морось";
+"shower drizzle" = "проливная морось";
+
+// group 5xx - rain
+"light rain" = "легкий дождь";
+"moderate rain" = "умеренный дождь";
+"heavy intensity rain" = "сильный дождь";
+"very heavy rain" = "очень сильный дождь";
+"extreme rain" = "ливень";
+"freezing rain" = "холодный дождь";
+"light intensity shower rain" = "слабый проливной дождь";
+"shower rain" = "проливной дождь";
+"heavy intensity shower rain" = "сильный проливной дождь";
+"ragged shower rain" = "местами проливной дождь";
+
+// group 6xx - snow
+"light snow" = "легкий снег";
+"snow" = "снег";
+"Snow" = "Снег";
+"Heavy snow" = "Сильный снег";
+"Sleet" = "Дождь со снегом";
+"Light shower sleet" = "Слабый проливной дождь со снегом";
+"Shower sleet" = "Проливной дождь со снегом";
+"Light rain and snow" = "Слабый дождь, снег";
+"Rain and snow" = "Дождь, снег";
+"Light shower snow" = "Слабый проливной снег";
+"Shower snow" = "Проливной снег";
+"Heavy shower snow" = "Сильный проливной снег";
+
+// group 7xx - atmosphere
+"mist" = "туман";
+"Smoke" = "Дым";
+"Haze" = "Сильный туман";
+"sand/ dust whirls" = "песчаные/пыльные бури";
+"fog" = "туман";
+"sand" = "песчаные бури";
+"dust" = "пыльные бури";
+"volcanic ash" = "вулканический пепел";
+"squalls" = "вихри";
+"tornado" = "торнадо";
+
+// group 800 - clear sky
+"clear sky" = "чистое небо";
+
+// group 80x - clouds
+"few clouds" = "рассеянные облака";
+"scattered clouds" = "разбросанные облака";
+"broken clouds" = "разорванные облака";
+"overcast clouds" = "сплошные облака";
+"few clouds: 11-25%" = "рассеянные облака: 11-25%";
+"scattered clouds: 25-50%" = "разбросанные облака: 25-50%";
+"broken clouds: 51-84%" = "разорванные облака: 51-84%";
+"overcast clouds: 85-100%" = "сплошные облака: 85-100%";

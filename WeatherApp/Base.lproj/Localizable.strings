@@ -1,0 +1,91 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by  Магин Ярослав on 04/08/2019.
+  Copyright © 2019 Magin Yaroslav. All rights reserved.
+*/
+
+"Taganrog" = "Taganrog";
+
+"today" = "Today";
+"wind" = "wind";
+"windSpeed" = "m/s";
+"pressure" = "pressure";
+"temp" = "temperature";
+
+// openweathermap descriptions
+
+// group 2xx - thunderstorm
+"thunderstorm with light rain" = "thunderstorm with light rain";
+"thunderstorm with rain" = "thunderstorm with rain";
+"thunderstorm with heavy rain" = "thunderstorm with heavy rain";
+"light thunderstorm" = "light thunderstorm";
+"thunderstorm" = "thunderstorm";
+"heavy thunderstorm" = "heavy thunderstorm";
+"ragged thunderstorm" = "ragged thunderstorm";
+"thunderstorm with light drizzle" = "thunderstorm with light drizzle";
+"thunderstorm with drizzle" = "thunderstorm with drizzle";
+"thunderstorm with heavy drizzle" = "thunderstorm with heavy drizzle";
+
+// group 3xx - drizzle
+"light intensity drizzle" = "light intensity drizzle";
+"drizzle" = "drizzle";
+"heavy intensity drizzle" = "heavy intensity drizzle";
+"light intensity drizzle rain" = "light intensity drizzle rain";
+"drizzle rain" = "drizzle rain";
+"heavy intensity drizzle rain" = "heavy intensity drizzle rain";
+"shower rain and drizzle" = "shower rain and drizzle";
+"heavy shower rain and drizzle" = "heavy shower rain and drizzle";
+"shower drizzle" = "shower drizzle";
+
+// group 5xx - rain
+"light rain" = "light rain";
+"moderate rain" = "moderate rain";
+"heavy intensity rain" = "heavy intensity rain";
+"very heavy rain" = "very heavy rain";
+"extreme rain" = "extreme rain";
+"freezing rain" = "freezing rain";
+"light intensity shower rain" = "light intensity shower rain";
+"shower rain" = "shower rain";
+"heavy intensity shower rain" = "heavy intensity shower rain";
+"ragged shower rain" = "ragged shower rain";
+
+// group 6xx - snow
+"light snow" = "light snow";
+"snow" = "snow";
+"Snow" = "Snow";
+"Heavy snow" = "Heavy snow";
+"Sleet" = "Sleet";
+"Light shower sleet" = "Light shower sleet";
+"Shower sleet" = "Shower sleet";
+"Light rain and snow" = "Light rain and snow";
+"Rain and snow" = "Rain and snow";
+"Light shower snow" = "Light shower snow";
+"Shower snow" = "Shower snow";
+"Heavy shower snow" = "Heavy shower snow";
+
+// group 7xx - atmosphere
+"mist" = "mist";
+"Smoke" = "Smoke";
+"Haze" = "Haze";
+"sand/ dust whirls" = "sand/ dust whirls";
+"fog" = "fog";
+"sand" = "sand";
+"dust" = "dust";
+"volcanic ash" = "volcanic ash";
+"squalls" = "squalls";
+"tornado" = "tornado";
+
+// group 800 - clear sky
+"clear sky" = "clear sky";
+
+// group 80x - clouds
+"few clouds" = "few clouds";
+"scattered clouds" = "scattered clouds";
+"broken clouds" = "broken clouds";
+"overcast clouds" = "overcast clouds";
+"few clouds: 11-25%" = "few clouds: 11-25%";
+"scattered clouds: 25-50%" = "scattered clouds: 25-50%";
+"broken clouds: 51-84%" = "broken clouds: 51-84%";
+"overcast clouds: 85-100%" = "overcast clouds: 85-100%";
